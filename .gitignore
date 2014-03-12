@@ -1,0 +1,5 @@
+*.c
+*.so
+*/.ipynb_checkpoints
+.idea
+build
