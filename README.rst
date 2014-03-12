@@ -24,6 +24,6 @@ To install CythonGSL you will need to have the GNU Scientific library installed 
 If you're using linux it should readily be available through your OS's package manager.
 On OSX you can install it via homebrew_.
 
-.. _hombrew: http://brew.sh/
+.. _homebrew: http://brew.sh/
 
 
