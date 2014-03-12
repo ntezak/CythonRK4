@@ -7,6 +7,6 @@ It provides only cython bindings to be used by other cython code.
 There is also a facility to call python callback functions as the ODE/SDE (currently only for real valued functions),
 but it is highly recommended to use the cython bindings.
 
-Check out the example ipython notebook to see how to use this package.
+Check out the `example ipython notebook`__ to see how to use this package.
 
-
+__ http://nbviewer.ipython.org/github/ntezak/CythonRK4/blob/master/examples/Examples.ipynb
